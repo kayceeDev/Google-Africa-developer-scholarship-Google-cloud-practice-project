@@ -1,4 +1,4 @@
- ## <center>Google Africa Developer Scholarship</center>
+## Google Africa Developer Scholarship
 ## <center style="color: blue">Google Cloud Practice Project<center>
     
 <h3 style="color: blue">Description</h3>
